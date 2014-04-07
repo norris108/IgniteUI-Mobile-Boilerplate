@@ -1,0 +1,42 @@
+﻿/*
+@import url(http://fonts.googleapis.com/css?family=Roboto:regular,medium,thin,italic,mediumitalic);
+*/
+@font-face {
+  font-family   : 'Roboto';
+  font-style    : normal;
+  font-weight   : 400;
+  src           : local('Roboto Regular'), 
+      local('Roboto-Regular'), 
+      url(http://themes.googleusercontent.com/static/fonts/roboto/v3/2UX7WLTfW3W8TclTUvlFyQ.woff)
+      format('woff');
+}
+
+@font-face {
+  font-family   : 'Roboto';
+  font-style    : normal;
+  font-weight   : 700;
+  src           : local('Roboto Bold'), 
+        local('Roboto-Bold'), 
+        url(http://themes.googleusercontent.com/static/fonts/roboto/v3/d-6IYplOFocCacKzxwXSOD8E0i7KZn-EPnyo3HZu7kw.woff) 
+        format('woff');
+}
+
+/*
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto Regular'), local('Roboto-Regular'), url(roboto.regular.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Roboto Bold'), local('Roboto-Bold'), url(roboto.bold.woff) format('woff');
+}
+
+body{font-family: Roboto}
+textarea{font-family: Roboto;font-weight:bold}
+
+*/
